@@ -1,0 +1,16 @@
+cli
+farver
+glue
+labeling
+lifecycle
+R6
+RColorBrewer
+rlang
+viridisLite
+bit64
+covr
+dichromat
+ggplot2
+hms
+stringi
+testthat
